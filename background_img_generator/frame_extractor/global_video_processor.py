@@ -9,6 +9,10 @@ from frame_extractor.utils import setup_logger
 
 
 class GlobalVideoProcessor:
+    """
+    “Allowed time intervals below 60 seconds are all divisors of 60. Intervals greater than or equal to 60 seconds must be multiples of 60.”
+    """
+
     def __init__(
         self,
         base_dir: Path,
@@ -24,9 +28,22 @@ class GlobalVideoProcessor:
         self.logger = setup_logger("GlobalVideoProcessor", log_file)
 
         self.file_format = file_format
+
         self.interval_in_sec = interval_in_sec
+        self.assert_valid_time_interval(interval_in_sec)
+
         self.max_workers = max_workers
         self.frame_extractor = FrameExtractor(logger=self.logger, interval_sec=self.interval_in_sec, fps=fps)
+
+    def assert_valid_time_interval(self, interval: int) -> None:
+        if interval < 60:
+            if 60 % interval != 0:
+                self.logger.error(f"Invalid interval: {interval}. Must be a divisor of 60 when below 60.")
+                raise ValueError(f"Invalid interval: {interval}. Must be a divisor of 60 when below 60.")
+        else:
+            if interval % 60 != 0:
+                self.logger.error(f"Invalid interval: {interval}. Must be a multiple of 60 when >= 60.")
+                raise ValueError(f"Invalid interval: {interval}. Must be a multiple of 60 when >= 60.")
 
     def _find_video_dirs(self) -> list[Path]:
         pattern = re.compile(r"^\d{8}$")
