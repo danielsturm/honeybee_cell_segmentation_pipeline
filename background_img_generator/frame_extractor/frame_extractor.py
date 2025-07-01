@@ -26,7 +26,7 @@ class FrameExtractor:
         if system == "Windows":
             return bin_path / "ffmpeg.exe"
         elif system == "Linux":
-            return bin_path / "ffmpeg_linux"
+            return bin_path / "ffmpeg"
         else:
             self.logger.error(f"Unsupported platform: {system}")
             raise OSError(f"Unsupported platform: {system}")
