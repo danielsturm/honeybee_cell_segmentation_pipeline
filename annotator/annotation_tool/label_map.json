@@ -1,0 +1,11 @@
+{
+    "unlabeled": "blue",
+    "honey":"gold",
+    "larvae":"cyan",
+    "pollen":"pink",
+    "empty":"green",
+    "eggs":"red",
+    "nectar":"orange",
+    "capped_brood":"lime",
+    "capped_honey":"brown"
+}

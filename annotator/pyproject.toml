@@ -1,0 +1,24 @@
+[project]
+name = "annotator"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Daniel Sturm",email = "d.sturm@fu-berlin.de"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "napari (>=0.6.2,<0.7.0)",
+    "pyside6 (>=6.9.1,<7.0.0)"
+]
+
+[tool.poetry]
+packages = [
+    { include = "annotation_tool" }
+]
+[project.scripts]
+annotator = "annotation_tool.annotation_controller:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
