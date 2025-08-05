@@ -1,0 +1,4832 @@
+[
+  {
+    "id": "4cac066c-1922-4bfe-890b-e170e6baeba7",
+    "center_x": 1671,
+    "center_y": 45,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e36a305e-8179-45c4-a06e-d52f5dbfe647",
+    "center_x": 1178,
+    "center_y": 268,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bc186337-0d65-40df-a685-9bcbf7a3383d",
+    "center_x": 1669,
+    "center_y": 108,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2ff639cf-7cd1-469b-8c6d-6ba0f6ca23b8",
+    "center_x": 1615,
+    "center_y": 74,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b233090e-0197-4e47-be46-fe2b0d2f13b3",
+    "center_x": 1557,
+    "center_y": 45,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cf489ff1-dce9-4f72-b960-106e81758920",
+    "center_x": 1617,
+    "center_y": 16,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "12c172f6-7d4e-4006-bf6f-9df710f5d917",
+    "center_x": 1613,
+    "center_y": 137,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c81e3e66-bd9d-4b38-be06-03b5990494cb",
+    "center_x": 1669,
+    "center_y": 169,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cc7eb176-b7df-4f3b-864a-4c34935b17c4",
+    "center_x": 1555,
+    "center_y": 108,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4e1d667e-7fd5-455b-b5fb-0ce5371ed13b",
+    "center_x": 1503,
+    "center_y": 77,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "146f9d01-7c85-4e52-a414-20bc9cdc111e",
+    "center_x": 1504,
+    "center_y": 140,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "62ad8ba7-226d-40f0-a2df-11df14cc4087",
+    "center_x": 1557,
+    "center_y": 172,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "12f9e0aa-ddc0-4652-abcd-cf636953c2ec",
+    "center_x": 1611,
+    "center_y": 202,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f5eccd0c-6778-42b4-add7-eb0658afb340",
+    "center_x": 1667,
+    "center_y": 233,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "128e124d-2d9c-4545-90cb-f5d989cd27b9",
+    "center_x": 1613,
+    "center_y": 266,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3270583c-4495-430c-b3c3-26ad36983e44",
+    "center_x": 1666,
+    "center_y": 295,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "710ac153-c51d-4905-8e0c-b5a78c5525cd",
+    "center_x": 1557,
+    "center_y": 235,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b97089fa-f67f-4006-98b6-9cf6e29b7ce3",
+    "center_x": 1499,
+    "center_y": 202,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0002e112-c59f-42d4-8df4-5b572cabccdc",
+    "center_x": 1449,
+    "center_y": 172,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "aabf8353-f304-497d-9133-c76ea1c532d6",
+    "center_x": 1444,
+    "center_y": 109,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3c361940-6b03-4f2d-a14c-51734460b2fc",
+    "center_x": 1448,
+    "center_y": 45,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5aaa5dd6-aa7c-4fb5-8735-a8d2d45405f7",
+    "center_x": 1504,
+    "center_y": 14,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bb7f9e6f-f33a-461d-a677-c72c5138bddb",
+    "center_x": 1395,
+    "center_y": 81,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c09ab945-0510-4265-b948-a9cde763eeb2",
+    "center_x": 1395,
+    "center_y": 143,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0750cce5-2494-40cf-99d8-f846cdbcd75c",
+    "center_x": 1338,
+    "center_y": 114,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "160021ee-d164-4c0e-9422-69e62ed5af63",
+    "center_x": 1339,
+    "center_y": 51,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ea28921c-9846-47a7-b309-dea441576d90",
+    "center_x": 1393,
+    "center_y": 19,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "468e4196-3f0c-4a1c-99fc-4e0cc93e3273",
+    "center_x": 1286,
+    "center_y": 20,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ae288a7c-4f92-42bc-a08f-2d41755add26",
+    "center_x": 1287,
+    "center_y": 82,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "389751cc-3af7-46c8-a82e-edd11396cd75",
+    "center_x": 1232,
+    "center_y": 50,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9f855837-0500-412b-9ba9-8cae6a0977bb",
+    "center_x": 1181,
+    "center_y": 20,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d20218ce-7b29-4fe8-aeb9-f6068002b75a",
+    "center_x": 1235,
+    "center_y": 112,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "739ee793-1c2e-4d94-accb-6a82e93fbbb7",
+    "center_x": 1285,
+    "center_y": 143,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9f89a9c1-5345-4e9b-b58f-ca045686279b",
+    "center_x": 1337,
+    "center_y": 175,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5f8aee3e-a834-470d-b7c8-012fd734200f",
+    "center_x": 1394,
+    "center_y": 204,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c69435a8-56c0-46c7-a92e-11c9c4727974",
+    "center_x": 1447,
+    "center_y": 235,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cef1e332-56ec-4fca-9dd0-ffaf8f9d6bfe",
+    "center_x": 1503,
+    "center_y": 267,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e5941721-469c-44c3-8673-54eec8a3dbd9",
+    "center_x": 1555,
+    "center_y": 295,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "94fd6677-cfc1-4fa7-befa-a0b03a7da837",
+    "center_x": 1611,
+    "center_y": 327,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6544ed8a-c6de-4709-a033-e66c6f34e08b",
+    "center_x": 1671,
+    "center_y": 361,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9e4314ea-454d-47cb-ae2a-7fd77dcfe7da",
+    "center_x": 1181,
+    "center_y": 82,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "be463e66-a233-44c1-89dc-480eabf05f44",
+    "center_x": 1125,
+    "center_y": 52,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bbe0d921-2aca-4310-80fc-643a19d04fea",
+    "center_x": 1074,
+    "center_y": 22,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6e8f29f2-dff7-4fda-a031-54819d4de880",
+    "center_x": 1126,
+    "center_y": 115,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "40d8b2ea-7974-47d1-aa12-60fcd991409e",
+    "center_x": 1180,
+    "center_y": 145,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0f26284d-1c30-47b9-98e3-58b3a60000b8",
+    "center_x": 1235,
+    "center_y": 174,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8af1cee3-f49c-49bc-a6c5-f282e350b0c9",
+    "center_x": 1285,
+    "center_y": 204,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "373d9951-3e12-4fc5-b46f-9a2904cf4c7f",
+    "center_x": 1342,
+    "center_y": 237,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cbdc0d0f-1ad9-4c96-8fa6-be483d2c5a25",
+    "center_x": 1393,
+    "center_y": 266,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9a24aeed-26a9-43e9-9007-8a6ab4504d72",
+    "center_x": 1446,
+    "center_y": 297,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "73f8a0ef-4d2d-4bb5-ab7b-ba2765102ac8",
+    "center_x": 1502,
+    "center_y": 330,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f9f00abb-5776-49b3-8d03-1fc0a8b5b3be",
+    "center_x": 1554,
+    "center_y": 363,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca5ed794-e7c2-427e-961a-4f5190d0c799",
+    "center_x": 1615,
+    "center_y": 390,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2220a589-63b3-4491-9b85-5b3dc5ad54f7",
+    "center_x": 1675,
+    "center_y": 422,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9bc76981-4daa-461d-8d07-b14324ad86a0",
+    "center_x": 970,
+    "center_y": 24,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b2a837e0-9320-470d-94d3-31786d68b6e2",
+    "center_x": 1023,
+    "center_y": 52,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "73c94690-8ab7-4fcc-8648-a4816ca6f59c",
+    "center_x": 1074,
+    "center_y": 83,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "43e62ac2-1234-4ec2-af1d-5f851edb6d51",
+    "center_x": 864,
+    "center_y": 24,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9f339b31-af41-4837-bd48-b470d18e3594",
+    "center_x": 918,
+    "center_y": 59,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1946e802-e774-4437-aea8-769d1cf4e348",
+    "center_x": 971,
+    "center_y": 88,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "80b1a5d4-2268-4dd3-919c-7bffd5a018e4",
+    "center_x": 1023,
+    "center_y": 115,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "de1063b2-737d-4afe-a0e7-d06dcd68895a",
+    "center_x": 1072,
+    "center_y": 147,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3719bb3f-343d-474c-9231-f1a363a6a243",
+    "center_x": 1128,
+    "center_y": 175,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b8d2ff8b-7e4c-42c1-bcf1-6b1892bd2957",
+    "center_x": 1181,
+    "center_y": 208,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9007a298-4df2-4a4e-93dc-4d6ed207fe77",
+    "center_x": 1126,
+    "center_y": 237,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c1d23b48-14e7-4643-bd89-d28f4ee6656b",
+    "center_x": 1074,
+    "center_y": 207,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e0626af7-6a2b-473c-9888-4a02a232ca7e",
+    "center_x": 1020,
+    "center_y": 176,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "54f93590-c56c-4f87-8c78-0b31d869d3fb",
+    "center_x": 969,
+    "center_y": 148,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0b4a515e-15df-4dbd-8973-7889cc6a6700",
+    "center_x": 917,
+    "center_y": 117,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2b0fc4ff-a7e4-42dd-9a6c-c1616cab0d6f",
+    "center_x": 865,
+    "center_y": 86,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9fed7da3-af29-4b0a-8f6a-f272d4402977",
+    "center_x": 812,
+    "center_y": 55,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d30d0c2a-b8f2-4837-8b54-5210b61363b1",
+    "center_x": 760,
+    "center_y": 27,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1486a22d-f41b-4fdd-ba44-98863c9a921e",
+    "center_x": 862,
+    "center_y": 149,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d8c618a6-523b-40d0-8d77-f9194ec7c844",
+    "center_x": 916,
+    "center_y": 176,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b1fad0b6-decc-4d23-b0a9-a643ba8945c5",
+    "center_x": 915,
+    "center_y": 241,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3ca60d0d-3d2d-4bd6-93e1-23450eb56acc",
+    "center_x": 966,
+    "center_y": 208,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "52496608-fcf6-4337-b4cd-7bc642af5474",
+    "center_x": 967,
+    "center_y": 268,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2a28f908-9b1f-4ebd-af41-c41974d9b753",
+    "center_x": 912,
+    "center_y": 298,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "97758577-d20c-4b84-8456-e704a4d74f49",
+    "center_x": 860,
+    "center_y": 210,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cb47f987-db86-43b3-9f84-88cb9a6e41df",
+    "center_x": 806,
+    "center_y": 179,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "19a0e9b5-5bfa-476a-93a9-c7ee4c010e40",
+    "center_x": 809,
+    "center_y": 121,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "396bed10-e4d0-4baa-bfc5-542662837f8d",
+    "center_x": 1020,
+    "center_y": 238,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1a750f55-faf0-4c52-9b93-a9fc3336f090",
+    "center_x": 1020,
+    "center_y": 298,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b3b35d9d-5178-4e0a-ae77-404ab1648084",
+    "center_x": 1074,
+    "center_y": 269,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca737769-d7b4-4ec9-bdf7-ffc3373673d8",
+    "center_x": 1127,
+    "center_y": 301,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "346a3809-42c5-4937-8769-2d654b4d9c39",
+    "center_x": 1126,
+    "center_y": 366,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4504fced-916f-4cf0-b865-5f90e8166a5e",
+    "center_x": 1074,
+    "center_y": 331,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "67b37bfa-b88f-408b-8a87-199f9df0cde6",
+    "center_x": 1020,
+    "center_y": 361,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f1d28afc-48d5-48c6-9fe4-02e2536ac5c2",
+    "center_x": 910,
+    "center_y": 361,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9b64c29a-a4db-4581-b86c-5cf9a7adb4d3",
+    "center_x": 1232,
+    "center_y": 236,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "484ff141-4305-4e8b-8a3a-91064166684f",
+    "center_x": 1284,
+    "center_y": 266,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "42b43c1a-5381-4737-880e-a54345205ebe",
+    "center_x": 1233,
+    "center_y": 299,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2bee0198-0020-47a1-8d0f-e0ff6b0700d8",
+    "center_x": 1179,
+    "center_y": 328,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "638846d2-98b1-4f5d-b6f8-eedd0a05ce17",
+    "center_x": 1232,
+    "center_y": 359,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "02ad5a41-2048-4a8f-9cd8-fdb776d93692",
+    "center_x": 1286,
+    "center_y": 328,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "892d1ebe-ba01-435f-ac80-c2fab765c7cb",
+    "center_x": 1341,
+    "center_y": 297,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "35165726-292d-4725-932d-fb42ab416092",
+    "center_x": 652,
+    "center_y": 29,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "82e593b9-b5e0-49b9-9f47-9890ce4b9fbd",
+    "center_x": 706,
+    "center_y": 58,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a4727c1e-4170-4f1c-a79e-1c5f88f6560b",
+    "center_x": 758,
+    "center_y": 86,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "99dfae70-9802-4b03-b383-0efa974ffc65",
+    "center_x": 752,
+    "center_y": 271,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ff366414-77bb-4032-85c2-654375ed1979",
+    "center_x": 757,
+    "center_y": 147,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "37d5f2a0-f0b6-43d6-b739-9713547b2871",
+    "center_x": 706,
+    "center_y": 119,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7b812f8b-51aa-47e7-87da-43f3e22359fe",
+    "center_x": 703,
+    "center_y": 178,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0ba16ca7-7956-4259-b0f8-5dc736cc50d0",
+    "center_x": 653,
+    "center_y": 87,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "93f837d9-95e1-4cd7-b88f-b7a1d0325066",
+    "center_x": 651,
+    "center_y": 149,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4cf06b15-61ac-477e-8ae0-0a8aa7771634",
+    "center_x": 647,
+    "center_y": 208,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a35f2b95-d295-4ca0-be7a-bf14ee71294c",
+    "center_x": 646,
+    "center_y": 272,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "43ecdd22-0d62-4fbe-b39d-47ad0cc7f498",
+    "center_x": 595,
+    "center_y": 183,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3c49332d-845a-4eff-957f-fbac7ec1936d",
+    "center_x": 599,
+    "center_y": 120,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a77bca85-2caa-4178-9b24-568c2dcd42a2",
+    "center_x": 597,
+    "center_y": 59,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b662159c-2456-47e3-800c-ef74e41415d0",
+    "center_x": 546,
+    "center_y": 27,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cbf10123-61ad-4311-96c8-c440974c41da",
+    "center_x": 546,
+    "center_y": 90,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8b788dd8-0931-4398-bc2e-b609e32061d1",
+    "center_x": 545,
+    "center_y": 151,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "19735a5c-bb3e-45bd-be96-8b05a743e59c",
+    "center_x": 493,
+    "center_y": 120,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a9fd1da9-8e9e-4947-be1a-3e3acccab90a",
+    "center_x": 495,
+    "center_y": 61,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2104ae37-7172-4cad-844f-0bb9e96aa591",
+    "center_x": 492,
+    "center_y": 245,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5a9ab437-573b-4918-a84f-a3a135777eb8",
+    "center_x": 441,
+    "center_y": 216,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5d84f881-792a-4bb1-a0c8-a0ac2ebc98cd",
+    "center_x": 1394,
+    "center_y": 328,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5da5681f-30d6-4a79-9862-40f4d03707e6",
+    "center_x": 1392,
+    "center_y": 391,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "83631391-f089-4617-b964-dcaa2a8fa616",
+    "center_x": 1339,
+    "center_y": 360,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b5c40945-1a11-4744-a128-1cb1649b297c",
+    "center_x": 1339,
+    "center_y": 421,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2fab1dc5-006d-4cea-ac0e-2a90f3d431c5",
+    "center_x": 1286,
+    "center_y": 390,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c8442c8d-87e0-43d0-952e-3dd2fc2d0e55",
+    "center_x": 1287,
+    "center_y": 454,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a5b73b63-2aa6-4dbb-9897-be26ce9bf388",
+    "center_x": 1233,
+    "center_y": 423,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1270b9a6-4193-43bd-aa96-ad129cf8e546",
+    "center_x": 1177,
+    "center_y": 392,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "df5a9965-9ef2-4cbd-8f4d-d9dc8fd85d72",
+    "center_x": 1177,
+    "center_y": 454,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f4bb87e3-3089-4ef0-9de2-0a62420e70f4",
+    "center_x": 1126,
+    "center_y": 421,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d5706188-701f-47d9-8cd4-07cd6e87ddd3",
+    "center_x": 1073,
+    "center_y": 392,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "37c6b490-d08a-451c-8194-a1295b8a094a",
+    "center_x": 1021,
+    "center_y": 420,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3f5cb2e7-7722-43b0-9d5e-7eb29d79f492",
+    "center_x": 1075,
+    "center_y": 454,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7bb82c9c-57e5-487c-bb3f-a4388911c389",
+    "center_x": 1020,
+    "center_y": 483,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "90315326-2c3d-464b-bea0-5e22a5449178",
+    "center_x": 1074,
+    "center_y": 515,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "52ff7883-af04-4448-bac2-ab2fe43e4a80",
+    "center_x": 1128,
+    "center_y": 487,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "77b9d8d7-2751-4bec-b825-bc68ed8e4bdf",
+    "center_x": 1181,
+    "center_y": 518,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ef9eb297-b821-4ff4-8fe8-6f4a9ef0fdfb",
+    "center_x": 1236,
+    "center_y": 485,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e26d9135-3bae-48f8-b732-9dcef7c0ef14",
+    "center_x": 1287,
+    "center_y": 517,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a904fbd9-9a41-466c-b8e3-a3e6c7aa5622",
+    "center_x": 1341,
+    "center_y": 485,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7cbce9a5-776b-4a7c-843c-bf372124c97e",
+    "center_x": 1392,
+    "center_y": 451,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "57e9fe6a-7cb5-422e-9d05-6606364091b9",
+    "center_x": 1447,
+    "center_y": 421,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9b6fb0fd-0925-42c0-b14a-08d9ff878aa9",
+    "center_x": 1447,
+    "center_y": 357,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "273bd980-dbe3-4e5e-b8c1-810079fb1a4b",
+    "center_x": 1503,
+    "center_y": 389,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4335f2d9-f31f-4956-a40e-478068bb5287",
+    "center_x": 1558,
+    "center_y": 423,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7e3a06ff-6d98-4b0a-93fa-51ff90fc829e",
+    "center_x": 1502,
+    "center_y": 453,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b673bd83-c26d-498f-a7bf-269cc2f8507c",
+    "center_x": 1561,
+    "center_y": 483,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "05574ce7-91eb-4907-8f31-2bebf94c6862",
+    "center_x": 1503,
+    "center_y": 513,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "026266de-6270-4438-b4a9-814ef687e80c",
+    "center_x": 1448,
+    "center_y": 484,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1de60f9c-1027-455f-b0df-140da1a6840a",
+    "center_x": 1391,
+    "center_y": 516,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "29f83426-264c-4616-bf40-560fcc2f08d6",
+    "center_x": 1340,
+    "center_y": 548,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7f41e3ad-0a0f-41ec-959d-9285954c38a2",
+    "center_x": 1395,
+    "center_y": 575,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "71308e85-e3f2-4ab6-ab0b-13ee2f8df366",
+    "center_x": 1448,
+    "center_y": 545,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "995e66a6-7810-4717-932e-ddc428080545",
+    "center_x": 443,
+    "center_y": 31,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "88b1d568-fa56-45c1-b44c-544a8de75427",
+    "center_x": 443,
+    "center_y": 94,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "997c559b-4de8-479f-88fd-afd48b4ce893",
+    "center_x": 395,
+    "center_y": 61,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "861adee9-835c-44df-abb3-f68c26e69d05",
+    "center_x": 342,
+    "center_y": 33,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5177e41b-3a0b-40aa-a066-005b1911a5b9",
+    "center_x": 344,
+    "center_y": 97,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3fd541dd-d2bd-4cd7-a216-3dd27e4f5116",
+    "center_x": 392,
+    "center_y": 126,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bc0e7f81-6c5f-45ec-aa29-afbe5d846b87",
+    "center_x": 391,
+    "center_y": 188,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0be18fcc-e121-4f2f-b808-3d3ec4f73bc9",
+    "center_x": 344,
+    "center_y": 161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0ced68ba-685a-41ac-a8f3-da3d9fbae6b5",
+    "center_x": 295,
+    "center_y": 130,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3af29ae2-b134-4786-8cf2-d0c4d5e2ae10",
+    "center_x": 297,
+    "center_y": 64,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b7f28c89-51f3-45c7-8833-3399cf4d4c49",
+    "center_x": 344,
+    "center_y": 219,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cbf0bd72-aba2-428b-a23a-6a6743319bff",
+    "center_x": 292,
+    "center_y": 187,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2c49d0dc-cc9d-4bcd-bc99-ea0661c4684e",
+    "center_x": 294,
+    "center_y": 252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e38c11d2-61a3-4acf-9394-95d8cf3d0f28",
+    "center_x": 442,
+    "center_y": 157,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c988770a-84f5-4b12-b7b3-f198a1f9f6c4",
+    "center_x": 252,
+    "center_y": 39,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "090756e9-e07c-4836-a1bb-d8203c371431",
+    "center_x": 201,
+    "center_y": 69,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2af0e8db-eff0-4659-9000-82583c79b839",
+    "center_x": 153,
+    "center_y": 37,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1b8899da-213e-4cff-a494-9d0e53088dd4",
+    "center_x": 154,
+    "center_y": 100,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2c3c3c8b-1d64-4b6c-bb25-ac9c510b927e",
+    "center_x": 203,
+    "center_y": 131,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9d105498-9bda-44c3-bc4b-48f016fe5264",
+    "center_x": 251,
+    "center_y": 98,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c2dd5aea-af40-419a-8fa6-92a7d002f2ad",
+    "center_x": 249,
+    "center_y": 163,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c77bb233-d317-4bb4-8e7c-67bbefd55a56",
+    "center_x": 54,
+    "center_y": 40,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f0b4bd3f-41a7-4c3e-a5ce-5cbc27f44e54",
+    "center_x": 103,
+    "center_y": 12,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ef8565c7-4f45-4197-8e31-4c200faedc04",
+    "center_x": 107,
+    "center_y": 73,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fbe642b3-ae24-48a1-a664-db4b97509fcc",
+    "center_x": 51,
+    "center_y": 100,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7cc2dd98-fb33-41db-84a8-31c2d95e7331",
+    "center_x": 104,
+    "center_y": 130,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1bb5ac4f-9aa0-401b-85c5-237a67a5ab79",
+    "center_x": 101,
+    "center_y": 189,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0612738d-eaeb-4aa1-81bc-41f4fa153402",
+    "center_x": 52,
+    "center_y": 158,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "405141e6-73a5-488b-b395-43b60e834bae",
+    "center_x": 152,
+    "center_y": 157,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4a398c9f-785f-4afc-b763-0be43b71faf6",
+    "center_x": 199,
+    "center_y": 191,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "eb92d1f6-cb9b-49f9-b018-cdb7a6b33759",
+    "center_x": 249,
+    "center_y": 223,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f3436f53-1453-4f30-8bc3-2ca226a6015c",
+    "center_x": 298,
+    "center_y": 314,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9ca47877-04c0-4c3e-98bf-1f98e549d0f3",
+    "center_x": 248,
+    "center_y": 285,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a1d7ac93-f169-4e4f-bd08-4cbf27d5997c",
+    "center_x": 200,
+    "center_y": 249,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "eb8293d8-f7f5-4135-adf7-d23b2992197a",
+    "center_x": 148,
+    "center_y": 220,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "570f7470-9753-417d-b56b-ed37fd27e7e0",
+    "center_x": 100,
+    "center_y": 251,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "869060ed-8820-479d-b212-549be114457a",
+    "center_x": 49,
+    "center_y": 219,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a47c4daf-50d7-403a-a13a-0e0cde8e2242",
+    "center_x": 149,
+    "center_y": 283,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1f236cff-2e46-4077-afb7-9ebf7671ac48",
+    "center_x": 200,
+    "center_y": 312,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "51993856-f2ad-4d73-a967-5f41a65468bc",
+    "center_x": 1454,
+    "center_y": 913,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1ecb361f-12c3-4619-8ab7-5303bb7372a9",
+    "center_x": 1455,
+    "center_y": 850,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e4630578-2533-4c0a-bb64-fc110d2aa555",
+    "center_x": 1453,
+    "center_y": 789,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7556fbf8-92ea-4dcc-be22-2749fa083008",
+    "center_x": 1454,
+    "center_y": 727,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "402120e4-8139-4638-8b4c-e4c0ee920a65",
+    "center_x": 1399,
+    "center_y": 759,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0e54ee2f-1ad5-470a-8013-1ee2794c7090",
+    "center_x": 1400,
+    "center_y": 819,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "abac0c75-d5c2-495d-8e2d-389d6ad14a9a",
+    "center_x": 1508,
+    "center_y": 883,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "972fbb04-d78a-4bbf-9d03-754b671e98dc",
+    "center_x": 1508,
+    "center_y": 821,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c5c5e873-b55f-4ef1-afc3-cd06964f8af8",
+    "center_x": 1507,
+    "center_y": 760,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9b3a2295-d7e5-470d-b33e-77f7d753747b",
+    "center_x": 1566,
+    "center_y": 790,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cee61efb-2711-463e-b5aa-299f9e8a6de0",
+    "center_x": 1564,
+    "center_y": 852,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8a64aabe-7304-43b3-a03f-8529f40171da",
+    "center_x": 1563,
+    "center_y": 912,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a61e89f8-1b0b-4eb2-8255-d08d6ea736db",
+    "center_x": 1508,
+    "center_y": 942,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "85602955-5328-4926-b1a7-9a76f230558e",
+    "center_x": 1453,
+    "center_y": 978,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e344971a-6914-4b13-bced-0737e20bfb2d",
+    "center_x": 1398,
+    "center_y": 943,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4c255eeb-6d44-4c7c-8387-e33603db4cb3",
+    "center_x": 1396,
+    "center_y": 882,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b50f90f9-fe27-40bb-8864-a7415c12155d",
+    "center_x": 1344,
+    "center_y": 850,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "21d1248e-a9d1-4ee7-8a5b-6653c73943e9",
+    "center_x": 1242,
+    "center_y": 973,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2a05727c-4244-4ff2-8a33-0e145de11a2e",
+    "center_x": 1295,
+    "center_y": 943,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "204b3f43-822f-4e08-826c-a40f173a78ee",
+    "center_x": 1345,
+    "center_y": 914,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "05d803c0-6e24-4d25-a4b2-8bc1d9d80934",
+    "center_x": 1347,
+    "center_y": 976,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fa9a29b3-89b6-4e8f-9df7-d679b7372b22",
+    "center_x": 1399,
+    "center_y": 1006,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "94f53233-bdf4-4c5e-8010-9176c538d2f8",
+    "center_x": 1452,
+    "center_y": 1038,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "896e686f-54aa-44d9-ab7c-32df2c109548",
+    "center_x": 1506,
+    "center_y": 1006,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9f87bd61-2c4e-4659-9341-2c7c054a89aa",
+    "center_x": 1561,
+    "center_y": 975,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "72be7368-9ac6-405c-b702-19fc5e62a949",
+    "center_x": 1619,
+    "center_y": 942,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4a03c76f-7d10-4a15-b6bc-fe15c793fea6",
+    "center_x": 1676,
+    "center_y": 913,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a4c99a69-dc6f-4629-bb48-4ee77585c8e5",
+    "center_x": 1676,
+    "center_y": 850,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1d758200-a8a3-41d2-8897-ae07604b9f67",
+    "center_x": 1620,
+    "center_y": 881,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "68dc9e85-6723-4dda-915a-5dbf7039662c",
+    "center_x": 1620,
+    "center_y": 816,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c7fd50ae-6713-4359-9d6d-98ffbe4ad9f7",
+    "center_x": 1619,
+    "center_y": 757,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "18939aef-7e1e-4822-b077-274dccda3c9e",
+    "center_x": 1675,
+    "center_y": 790,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4076932f-3898-4ab5-9d76-4536af0e8382",
+    "center_x": 1674,
+    "center_y": 975,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "673ef6af-5448-442a-ac6c-20585778c0db",
+    "center_x": 1618,
+    "center_y": 1002,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "49aa6716-dc99-42cc-adaa-6d6fa95e30f2",
+    "center_x": 1616,
+    "center_y": 1063,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "55fee9bd-cdd8-473a-8560-99c5b99e222c",
+    "center_x": 1672,
+    "center_y": 1036,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a661f1d1-b7da-49e1-8333-9931cd988808",
+    "center_x": 1562,
+    "center_y": 1034,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3a1d36cb-b952-4edb-afdd-20b7a6b1082b",
+    "center_x": 1508,
+    "center_y": 1067,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3c53e424-bd0e-426b-998d-cfe22f7c23ad",
+    "center_x": 1294,
+    "center_y": 1005,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8eb6e89a-99a1-4012-9062-939a60f5197e",
+    "center_x": 1347,
+    "center_y": 1037,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "97cc0697-869a-43b3-939b-2fd4f9b1fba7",
+    "center_x": 1400,
+    "center_y": 1067,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "69e467fd-06d7-4967-bc09-59ed68f7b8f0",
+    "center_x": 1294,
+    "center_y": 1067,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5b85569f-1a02-4cae-bd88-e7993d26d525",
+    "center_x": 1241,
+    "center_y": 1035,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f3af5159-b275-4c3d-a43a-23c8071ec2bb",
+    "center_x": 1241,
+    "center_y": 911,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6367469f-f426-4c8d-bccd-799210b23705",
+    "center_x": 1293,
+    "center_y": 879,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "00b5b406-46ef-49a5-a242-91490dc1dd13",
+    "center_x": 1292,
+    "center_y": 817,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "efaaff14-b817-48ef-af76-16f0ad7a9545",
+    "center_x": 1239,
+    "center_y": 849,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e1adaed1-1ff3-49a4-bb22-beb94b43a1a2",
+    "center_x": 1346,
+    "center_y": 791,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2b2a9a8e-ee41-45f7-a6d1-5300664ae370",
+    "center_x": 1239,
+    "center_y": 790,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "411b882b-33d5-4a1e-b7d3-f683c901bc24",
+    "center_x": 1293,
+    "center_y": 761,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ea9d2e08-a13e-4c00-8153-1ab48c86d87f",
+    "center_x": 1345,
+    "center_y": 729,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "758ddcc7-2d07-419d-80a9-86867d28dd26",
+    "center_x": 1341,
+    "center_y": 607,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "82f54e0a-ebf4-4c52-a9ee-4f9b22150646",
+    "center_x": 1343,
+    "center_y": 669,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bcac4eae-8c6d-4756-9cf0-23454efcdbc4",
+    "center_x": 1286,
+    "center_y": 640,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0d80af59-ad1a-4d02-b79c-2eea04a10674",
+    "center_x": 1285,
+    "center_y": 576,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "61208a26-6e05-45f0-b05d-336878351e77",
+    "center_x": 1234,
+    "center_y": 547,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0c3d5aed-1789-48ca-b102-cbb9b225fa6c",
+    "center_x": 1235,
+    "center_y": 667,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e8152c26-ce0f-4bfe-925b-7fd06c5e1348",
+    "center_x": 1291,
+    "center_y": 698,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0241d0a9-1ccb-402d-810e-f60471752127",
+    "center_x": 1238,
+    "center_y": 727,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f17e961d-f28d-4457-843f-8808f177b54b",
+    "center_x": 1183,
+    "center_y": 696,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2933c8d6-11f4-4bbc-887a-9613aa5bdac5",
+    "center_x": 1181,
+    "center_y": 636,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a6bc44d1-17db-4d3a-b16b-9043efb0c379",
+    "center_x": 1234,
+    "center_y": 608,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "09fe0ef0-b5b8-490f-aa90-adcf38a079ca",
+    "center_x": 1179,
+    "center_y": 577,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1c5df60c-f426-4f1c-b94e-9f95f9368057",
+    "center_x": 1396,
+    "center_y": 635,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "23c5b71d-007f-4581-8eb4-86a6d396a703",
+    "center_x": 1397,
+    "center_y": 698,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ddd67968-4967-46b5-ac98-004f2df1690c",
+    "center_x": 1452,
+    "center_y": 668,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e8413a95-57ba-4c23-9a4f-7273f3dad0e3",
+    "center_x": 1450,
+    "center_y": 603,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "67d9069c-f91d-4299-aeb4-de72a3a28a7b",
+    "center_x": 1506,
+    "center_y": 575,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "aecbfaf2-8297-4fd1-bf5a-57feb93cdb63",
+    "center_x": 1504,
+    "center_y": 635,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2a92aa08-7d57-432e-ba96-f8fcbdde3141",
+    "center_x": 1506,
+    "center_y": 699,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "63a31461-cf60-47a8-9ccd-2cee97508180",
+    "center_x": 1563,
+    "center_y": 730,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3204938e-fd78-4a08-b139-905c80538c96",
+    "center_x": 1562,
+    "center_y": 667,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "276793b8-10cb-463a-a5e4-c3adab1e1eeb",
+    "center_x": 1561,
+    "center_y": 603,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "44c07a57-b199-492a-af70-81a39f92a89d",
+    "center_x": 1560,
+    "center_y": 541,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1e16c5ca-0254-4f6d-8aac-3065b014ff22",
+    "center_x": 1619,
+    "center_y": 576,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "492ae052-429f-40a3-8d38-86db476c153d",
+    "center_x": 1676,
+    "center_y": 607,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b5901404-4567-40b2-886d-07b87423a522",
+    "center_x": 1674,
+    "center_y": 669,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f0bbf3a1-9d6f-4655-b93a-8fb7e476a867",
+    "center_x": 1674,
+    "center_y": 729,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e976d344-2f3a-4240-99bf-d733e44bd55f",
+    "center_x": 1620,
+    "center_y": 698,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "febc0d9c-902e-4958-8b18-7e060e72658f",
+    "center_x": 1619,
+    "center_y": 635,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d575bb79-a826-4418-8868-5d7e69f56ff0",
+    "center_x": 1182,
+    "center_y": 759,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bf679c8c-f435-4189-853c-27241c98d40a",
+    "center_x": 1126,
+    "center_y": 726,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a2d85d4a-9b81-46b1-89af-846d77eecc47",
+    "center_x": 1130,
+    "center_y": 667,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d202f33f-0986-47b4-bc0f-b43cf860a0e6",
+    "center_x": 1126,
+    "center_y": 605,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a919cf3a-f412-4787-850a-5e723fdba4b4",
+    "center_x": 1125,
+    "center_y": 546,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f2f5b73a-c048-4b89-8ed5-8313a262f371",
+    "center_x": 644,
+    "center_y": 459,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "00ba17fe-c523-45a5-affc-f0bd495d6546",
+    "center_x": 698,
+    "center_y": 426,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "499faf95-cb9a-45cd-b979-7e384300fc95",
+    "center_x": 860,
+    "center_y": 391,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "616f0d69-917b-4c68-9ceb-109e7bf9c8ba",
+    "center_x": 751,
+    "center_y": 640,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5fa56b1d-e2d9-40dc-b937-07f3fa475eed",
+    "center_x": 754,
+    "center_y": 577,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "323b2dd9-8b77-4a97-9bb6-b5fc69bbd1b8",
+    "center_x": 750,
+    "center_y": 517,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ffb3a18b-a0ea-4ce3-b0ab-8558b119a13c",
+    "center_x": 643,
+    "center_y": 516,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a4fc6f61-4c8e-4768-9826-b234c375c604",
+    "center_x": 646,
+    "center_y": 643,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "17af7bc8-0e7b-456d-a5c4-c5ee25c0a065",
+    "center_x": 699,
+    "center_y": 613,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "aa7665a6-9f1b-4390-8ffe-905b81fd9c6c",
+    "center_x": 1022,
+    "center_y": 606,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b46f6638-070b-4611-9d80-c23ef1492221",
+    "center_x": 1074,
+    "center_y": 576,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "61884113-b215-4f0c-8107-de9c8a5c2d9e",
+    "center_x": 1075,
+    "center_y": 635,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ad73d92a-0a38-4ada-a844-218c363479ab",
+    "center_x": 1131,
+    "center_y": 791,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "00427f4b-1381-4087-ac32-39683462707a",
+    "center_x": 1187,
+    "center_y": 821,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "93ec401d-85bc-4d25-83af-1005384ef8ac",
+    "center_x": 1186,
+    "center_y": 880,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6fdc8cdb-aa3c-4b45-96ee-41624043bc90",
+    "center_x": 1132,
+    "center_y": 853,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "558b3ea0-1cb1-4218-9116-400efb9f2266",
+    "center_x": 1018,
+    "center_y": 732,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5ab879a8-e693-4f7c-9150-bfb080745d3f",
+    "center_x": 1024,
+    "center_y": 795,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "29cadae8-9ecc-470f-a9b8-733bfc918500",
+    "center_x": 967,
+    "center_y": 765,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "96575c71-efd8-4039-9f9d-2107fe899c51",
+    "center_x": 911,
+    "center_y": 731,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0f8c7165-e9ad-4238-820c-3b79ce73f1a5",
+    "center_x": 912,
+    "center_y": 669,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1dfb92da-b628-475e-a2f7-daf71ab4f026",
+    "center_x": 440,
+    "center_y": 402,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3578a375-2f82-4c43-af6c-6c3adae4bc13",
+    "center_x": 489,
+    "center_y": 430,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ae5c5415-c136-4338-bbec-c09bcbef183c",
+    "center_x": 541,
+    "center_y": 458,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4ed803eb-0f12-4cb0-8a8e-8be5a5a45baf",
+    "center_x": 594,
+    "center_y": 487,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "06b8d2d5-9bb6-4bc8-ac78-73371c24f8dd",
+    "center_x": 541,
+    "center_y": 521,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9fd7d923-ecac-437b-a18c-2c9aa0398871",
+    "center_x": 492,
+    "center_y": 492,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1f113eaa-6029-4c4e-9513-424400037884",
+    "center_x": 440,
+    "center_y": 461,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c6eb24e9-93ab-416b-9733-3fe6b36becd0",
+    "center_x": 343,
+    "center_y": 464,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b6b80244-02b2-4936-89a8-86f2976d5a31",
+    "center_x": 343,
+    "center_y": 526,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e2d4a381-fa22-4b2f-9d7e-24e994c0998c",
+    "center_x": 439,
+    "center_y": 584,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d24f266a-3d54-4f7d-892b-68251bc99f50",
+    "center_x": 491,
+    "center_y": 554,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c7ec8c30-81e1-4af7-bd0a-80ee6aad28bc",
+    "center_x": 543,
+    "center_y": 581,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7c620000-601e-4d6c-9e30-f6ac7b26665b",
+    "center_x": 540,
+    "center_y": 645,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a91edac2-dc89-4967-aee0-94733a4a0156",
+    "center_x": 490,
+    "center_y": 615,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "24bd8088-e69b-448b-9da0-95fcfb1854e4",
+    "center_x": 489,
+    "center_y": 674,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7e67b071-44d8-42e0-a26f-a1b9e2590db4",
+    "center_x": 443,
+    "center_y": 646,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e8e7ac1b-5ea5-44ca-a5d1-b381808ac887",
+    "center_x": 390,
+    "center_y": 615,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "70717b63-87fa-4ad8-94d5-4383e80cfcab",
+    "center_x": 541,
+    "center_y": 705,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0f205c0b-c2f9-4737-b3c6-38c13c4bf8db",
+    "center_x": 595,
+    "center_y": 736,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7ec529cd-2735-4c27-a851-d297e377a810",
+    "center_x": 647,
+    "center_y": 704,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8c111aaf-7c23-4336-acef-2b7469f9dd2a",
+    "center_x": 699,
+    "center_y": 674,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e3c765e4-3fac-4a73-a52b-33076e1ee52b",
+    "center_x": 753,
+    "center_y": 703,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "32340fe8-729c-4006-93dd-a985859c6b51",
+    "center_x": 806,
+    "center_y": 671,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6eef24c7-6f61-4b6a-8a87-6bae7cf777f9",
+    "center_x": 249,
+    "center_y": 467,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "03b2d348-9b59-4b43-a95a-9bb9a9cd71a1",
+    "center_x": 249,
+    "center_y": 403,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8ccbe28a-0b0e-47d6-b676-ecc4805dbe86",
+    "center_x": 861,
+    "center_y": 764,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cf4ef003-3772-44c9-a9c3-317dffe928c1",
+    "center_x": 1080,
+    "center_y": 884,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f9a88860-f124-41a2-b055-4592f71b4882",
+    "center_x": 1026,
+    "center_y": 854,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f84ed666-562e-4326-8dd7-04eeaf6a3fa4",
+    "center_x": 972,
+    "center_y": 823,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "07b3397e-fae7-49dc-b8e5-89221a8f8817",
+    "center_x": 918,
+    "center_y": 793,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "68df2f58-4b1d-4432-a5bc-99808bb821c5",
+    "center_x": 918,
+    "center_y": 853,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d62fbd70-1af7-44be-9f71-152ecf1d3b5f",
+    "center_x": 862,
+    "center_y": 887,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "355f9000-a6f7-4f06-a979-cf254ba7ade3",
+    "center_x": 810,
+    "center_y": 856,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "31b13362-f51e-430d-9c82-d00064d78e0b",
+    "center_x": 806,
+    "center_y": 792,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "58e6f650-4060-4539-ad0c-927a210ff9d4",
+    "center_x": 752,
+    "center_y": 763,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7b06e3f5-2e19-48ec-80c2-ffddb1ebfe04",
+    "center_x": 698,
+    "center_y": 732,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6b82cbe2-74d4-4979-b1f8-964e80fa6042",
+    "center_x": 863,
+    "center_y": 825,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "29d31466-3349-4ff8-8798-7a6eb2f7cd7c",
+    "center_x": 972,
+    "center_y": 885,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "712f5592-ff5a-4d0d-a136-82b64ea95949",
+    "center_x": 1076,
+    "center_y": 822,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b725325f-ed2f-4061-9736-932f788d729c",
+    "center_x": 1077,
+    "center_y": 758,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f0fa6bfe-3d2b-44bc-9662-77cc1b6915c0",
+    "center_x": 1075,
+    "center_y": 692,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d5dcfbd8-a9a8-4e97-9293-c0bf544c0ea0",
+    "center_x": 964,
+    "center_y": 704,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "316a6fe1-dedc-4d06-a850-4c6d4873f240",
+    "center_x": 1021,
+    "center_y": 666,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "38a9742d-82fc-4366-b2d5-7a85781d924f",
+    "center_x": 967,
+    "center_y": 636,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b48c593d-4bed-40c7-9a16-47c2bcce9f38",
+    "center_x": 801,
+    "center_y": 731,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "61c70f85-6899-48fc-84f0-016b971cfb73",
+    "center_x": 857,
+    "center_y": 702,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c0be0c92-532e-4cee-be62-4f98f8fda97d",
+    "center_x": 591,
+    "center_y": 672,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "42af139c-ef61-4b11-a553-0be9ddc3cd27",
+    "center_x": 590,
+    "center_y": 611,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1a3e3525-1a4d-4839-a07e-f322efb3e46a",
+    "center_x": 590,
+    "center_y": 546,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5d083260-567c-4170-ab5d-6d5f97be856b",
+    "center_x": 642,
+    "center_y": 575,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "928db5b6-ebd1-42c1-bce4-4c52c3a22535",
+    "center_x": 698,
+    "center_y": 548,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "df67d537-4785-45c9-bc98-f7c4e64d2cc0",
+    "center_x": 392,
+    "center_y": 675,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3614928e-d2d3-4b29-9b66-4c9cf5141d1d",
+    "center_x": 299,
+    "center_y": 673,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1beec408-350e-43c6-b4d1-a9e28e5db712",
+    "center_x": 348,
+    "center_y": 764,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "75d09f48-63e0-4333-9f43-e956fcf09a8a",
+    "center_x": 394,
+    "center_y": 734,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "942063a2-b7f4-4099-bd60-afb141c39fc1",
+    "center_x": 299,
+    "center_y": 737,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c328960a-a372-40e5-874a-acc0b1ed1690",
+    "center_x": 348,
+    "center_y": 708,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7f6d7760-53b9-4e9c-b197-ab4a9cdd5b23",
+    "center_x": 348,
+    "center_y": 646,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "33e21e79-6c1d-4522-bab3-9c6dbd6373bc",
+    "center_x": 346,
+    "center_y": 580,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "12b322c2-0b7d-4c83-b86c-026806a85398",
+    "center_x": 201,
+    "center_y": 373,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "68a4ce75-c968-4d1c-8162-c931237f1d33",
+    "center_x": 249,
+    "center_y": 346,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ab44edc4-dce1-421a-8ce1-ba80653281bf",
+    "center_x": 152,
+    "center_y": 404,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9c9e0fa2-34dd-4235-bdfc-efb0fffaa00b",
+    "center_x": 150,
+    "center_y": 342,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5821b709-4f83-46f8-a92f-f26b3689b4f7",
+    "center_x": 152,
+    "center_y": 464,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5b162537-fd48-4d88-8fde-ae852fcd6d0f",
+    "center_x": 203,
+    "center_y": 433,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4b093d2c-994c-4b4f-adc6-9c48bc312143",
+    "center_x": 197,
+    "center_y": 737,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1c54cdc4-073b-44e4-b84a-9da1d1144b6f",
+    "center_x": 200,
+    "center_y": 798,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "837c683b-8e22-4611-bae6-02d04bd05e58",
+    "center_x": 251,
+    "center_y": 828,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c496ad82-616b-4495-9c6e-a17d025dce2b",
+    "center_x": 300,
+    "center_y": 798,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d8d0099d-90ac-4ea2-813c-f5c5e542cc60",
+    "center_x": 442,
+    "center_y": 704,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "72fa43b9-c854-41ad-a516-d78ba804aee2",
+    "center_x": 445,
+    "center_y": 766,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "970a70b5-9706-4db1-8fa0-18c0c64fc751",
+    "center_x": 491,
+    "center_y": 736,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a201fa37-c7a6-42d3-acc0-994b04671e37",
+    "center_x": 492,
+    "center_y": 795,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "83ad452a-783d-43a5-a2f5-1accd3abf528",
+    "center_x": 544,
+    "center_y": 766,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "36a8820b-cc3b-480d-a07f-2970b60c58fe",
+    "center_x": 595,
+    "center_y": 796,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e62eee92-6010-407d-be68-bd046c0ad66d",
+    "center_x": 647,
+    "center_y": 764,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e59bde61-c48b-41f7-9247-73f5d376db1d",
+    "center_x": 646,
+    "center_y": 825,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8b1be2bc-e5ca-4a8b-8c4a-eac14eb904f6",
+    "center_x": 594,
+    "center_y": 860,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "02529fcd-5557-441a-a673-d108386b9986",
+    "center_x": 542,
+    "center_y": 830,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9987c81d-f31a-4e82-905c-def8085cdab5",
+    "center_x": 544,
+    "center_y": 889,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca3c5eed-fcac-4ef5-8b0d-15c74a76f12e",
+    "center_x": 489,
+    "center_y": 857,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9150e9ea-110f-42f5-b51c-4ef6f6459ab8",
+    "center_x": 440,
+    "center_y": 827,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2ad7bdb7-94f9-4b71-9c73-e0120004a7f0",
+    "center_x": 394,
+    "center_y": 797,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9808aa5b-8d85-4d54-ab77-315b5f8f0286",
+    "center_x": 701,
+    "center_y": 793,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "048297bc-9336-4205-b258-0ba746752ff9",
+    "center_x": 755,
+    "center_y": 824,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5576f80d-bca5-4b85-9f4b-ebb65a072f45",
+    "center_x": 702,
+    "center_y": 856,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "99b7b01b-7569-4809-ba57-e96d0daa14f9",
+    "center_x": 647,
+    "center_y": 889,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d2660d76-a49d-4040-b6a5-d637dedc5804",
+    "center_x": 703,
+    "center_y": 915,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e07d3b2f-5ca7-46f4-8a6b-cddde283e57f",
+    "center_x": 761,
+    "center_y": 886,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "69be4b2a-70e8-4800-819b-8a02bb0b72ca",
+    "center_x": 98,
+    "center_y": 491,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c1495ff9-f8d3-476b-bf24-4104199c1bc6",
+    "center_x": 45,
+    "center_y": 523,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "371136a4-4301-4962-a808-0eed1b273607",
+    "center_x": 102,
+    "center_y": 552,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c68cd286-a82c-4f75-abd8-70fac1ad2e6d",
+    "center_x": 153,
+    "center_y": 525,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1b3aa9dd-79a0-4d38-b309-9c516784fef1",
+    "center_x": 50,
+    "center_y": 583,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "55e7b241-e298-47f0-9547-f90dba5f8f01",
+    "center_x": 103,
+    "center_y": 614,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ede9c459-dcb1-4d80-b868-104407da5f44",
+    "center_x": 155,
+    "center_y": 644,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ffb7cf03-9caa-41ad-a5de-0f34bb6157a7",
+    "center_x": 105,
+    "center_y": 676,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8d8d36d9-7bb6-4c25-9e43-5798e713697a",
+    "center_x": 51,
+    "center_y": 643,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "de36b154-06f0-431f-9c19-680a94bbc611",
+    "center_x": 53,
+    "center_y": 702,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "67768318-5587-4aff-b4e8-0e1dd7b71f43",
+    "center_x": 105,
+    "center_y": 739,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "681bb523-5d45-4714-8f15-f08e4e3083ca",
+    "center_x": 50,
+    "center_y": 280,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f862c40d-487c-4690-8f7b-9a9d4036ce09",
+    "center_x": 101,
+    "center_y": 312,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e7f67fc2-039a-4749-a96f-444f0cad12eb",
+    "center_x": 102,
+    "center_y": 374,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "be3a7de3-a2e7-47fc-9f51-f67332566166",
+    "center_x": 102,
+    "center_y": 432,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "81762845-5d5d-43c3-a8dd-2eb4165dcd4d",
+    "center_x": 49,
+    "center_y": 401,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bd8a489e-c74e-4ccf-b2c7-6e8f04d9ff71",
+    "center_x": 49,
+    "center_y": 340,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f0dcd9df-0f3f-4c16-ae85-c41570cf601b",
+    "center_x": 51,
+    "center_y": 462,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5fe2d561-1cc8-42a1-8824-5b7e6875d660",
+    "center_x": 203,
+    "center_y": 7,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a6a3345c-1e53-4947-b90b-73ca739213a2",
+    "center_x": 298,
+    "center_y": 9,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f8553009-d21a-4a26-ac22-7e59bb69e5f4",
+    "center_x": 867,
+    "center_y": 1008,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "125a1867-82cb-4375-9871-cdc21fd0a36e",
+    "center_x": 866,
+    "center_y": 945,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "668f013a-1ffa-46fb-b0dc-d149cf76911f",
+    "center_x": 919,
+    "center_y": 914,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e116e2f0-8f2e-4d2c-a45e-b8a8c60b8ace",
+    "center_x": 921,
+    "center_y": 974,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "db1cd390-b5fa-4e2b-a7e1-b6e11c2faaae",
+    "center_x": 922,
+    "center_y": 1037,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "817779cf-80ef-4f8b-a9dc-fb658569acc7",
+    "center_x": 975,
+    "center_y": 1008,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5fe69424-0db8-41d6-afdc-b2dea2997b61",
+    "center_x": 973,
+    "center_y": 945,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d4479a0a-7afa-4b50-b8ab-64a715ffa53b",
+    "center_x": 1026,
+    "center_y": 914,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d409cea5-9484-43c7-9701-45a488dbdefb",
+    "center_x": 1028,
+    "center_y": 973,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5fff0cdb-406a-4048-9b9a-ba5fc894c40f",
+    "center_x": 1028,
+    "center_y": 1039,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ea44eec3-6348-4017-bd9e-62f4c20e0fc2",
+    "center_x": 1081,
+    "center_y": 1005,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6489e4ab-d0bd-466c-9a22-97bf4d4f75bf",
+    "center_x": 1081,
+    "center_y": 943,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2d4ed124-a39f-4ef2-afd4-cb564950bffc",
+    "center_x": 1132,
+    "center_y": 913,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8bf0c7b2-4b82-4f9f-a4ba-6f3b2280f568",
+    "center_x": 1188,
+    "center_y": 942,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "84d23d75-aa35-4bb6-b363-d5af9b78b227",
+    "center_x": 1188,
+    "center_y": 1006,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5d7c9b45-f139-4182-abf3-d2256e9f115c",
+    "center_x": 1132,
+    "center_y": 973,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "719a9414-8d22-4a65-a41c-d31b0f46db01",
+    "center_x": 1134,
+    "center_y": 1036,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "99c3f575-6262-4e8f-b7ee-831bdacdf873",
+    "center_x": 1186,
+    "center_y": 1068,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "90558843-d5ee-4f4a-90a4-1fc4ac626e5e",
+    "center_x": 1186,
+    "center_y": 1129,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9642acd9-e57e-4c83-9913-87853927ed7b",
+    "center_x": 1186,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fa897b83-7aac-4134-8245-a9eea6accdda",
+    "center_x": 1134,
+    "center_y": 1163,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fb6bc7ff-b337-4196-9f72-fbb1b35d6c68",
+    "center_x": 1081,
+    "center_y": 1132,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9d76d1fa-49fe-4f21-b1fe-1f1c964d6bbd",
+    "center_x": 1029,
+    "center_y": 1099,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "326932df-929d-458e-9289-c97351e6f560",
+    "center_x": 975,
+    "center_y": 1068,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "70702347-6f24-425c-a014-e53cdf425e01",
+    "center_x": 1081,
+    "center_y": 1070,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c81a96e2-0b52-409b-be55-1d6bcacb4045",
+    "center_x": 1131,
+    "center_y": 1100,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a946faf1-e707-4a9a-9d56-7728c1ff20f7",
+    "center_x": 494,
+    "center_y": 917,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5519b40d-cec9-4a6a-878e-5e98fe958ebc",
+    "center_x": 494,
+    "center_y": 978,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3b7b7412-112f-498c-aa21-4a2cc079e03b",
+    "center_x": 495,
+    "center_y": 1038,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "47b1b039-d69f-425e-afc4-f5e998c2b71f",
+    "center_x": 497,
+    "center_y": 1101,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b8c50aa6-2103-45f5-a7f7-1d122d1e9d3d",
+    "center_x": 499,
+    "center_y": 1161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "89631f77-bb74-46d7-baa9-240221db7890",
+    "center_x": 545,
+    "center_y": 1009,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "68b32458-4360-4829-a5f9-f048972309e4",
+    "center_x": 544,
+    "center_y": 951,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "64bfccbc-6263-472c-9bc6-257807095ae7",
+    "center_x": 595,
+    "center_y": 918,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d366a2dd-93a1-4049-85bf-491909d28aba",
+    "center_x": 705,
+    "center_y": 977,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dcd53ad4-afea-4a16-a6a9-8bf2ff69f494",
+    "center_x": 703,
+    "center_y": 1041,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "999cd517-d4ab-4ac3-8ecb-e6731b0551b9",
+    "center_x": 705,
+    "center_y": 1102,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9f1edbe7-095e-43d0-8091-e2d19f1252a4",
+    "center_x": 708,
+    "center_y": 1163,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "25a83ed8-422d-40c5-b059-25efc7ff517e",
+    "center_x": 599,
+    "center_y": 1103,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d4e8428b-ed0c-4f35-a610-2c7ffa9f22fc",
+    "center_x": 547,
+    "center_y": 1069,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f082fa4b-4991-499d-b25b-562c54def130",
+    "center_x": 444,
+    "center_y": 1010,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7ca97715-76a2-4628-97c6-a6c28580a70f",
+    "center_x": 396,
+    "center_y": 978,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ac1351d8-13cb-4da3-b843-7ac6494acd04",
+    "center_x": 393,
+    "center_y": 918,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fe2cc978-7e3b-4dfb-ae6e-eb7e418f79da",
+    "center_x": 341,
+    "center_y": 1011,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5f46e0b4-fbd3-4bdb-a2d8-533641f4a4d5",
+    "center_x": 348,
+    "center_y": 1074,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d2c591a4-37d9-452c-942a-e1643d22047b",
+    "center_x": 397,
+    "center_y": 1042,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "57fa71d0-29e2-4309-92af-2edfe1ffc498",
+    "center_x": 447,
+    "center_y": 1070,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dcc25a48-2213-4df8-8e7c-10785d614dde",
+    "center_x": 107,
+    "center_y": 1099,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2189853c-2b0f-487d-b980-d93d65cfd68b",
+    "center_x": 157,
+    "center_y": 1070,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "46c1972a-5019-441d-bcf7-271fc9209ead",
+    "center_x": 156,
+    "center_y": 1007,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "669e322f-1a24-4741-a6da-96abc20ac8b7",
+    "center_x": 205,
+    "center_y": 980,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "20428a32-1e96-431f-a726-c31056aa51b1",
+    "center_x": 251,
+    "center_y": 946,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d1ce675f-5ffe-44f2-971b-e85f1be3a830",
+    "center_x": 300,
+    "center_y": 915,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "baf45175-dd0d-4d57-a853-da6f83d951ef",
+    "center_x": 346,
+    "center_y": 888,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cd1e804a-80d9-4632-acc8-4085f98abaf4",
+    "center_x": 395,
+    "center_y": 858,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8d62a952-b3e7-4850-8b80-923a8a15e3bc",
+    "center_x": 445,
+    "center_y": 887,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8cf5d55b-f9d5-43b2-b687-5cbf9dd80d65",
+    "center_x": 445,
+    "center_y": 949,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d9128492-1caa-4216-a412-86c2982bee2d",
+    "center_x": 155,
+    "center_y": 884,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c70a3395-e36f-4e4a-bf75-0742b588cdee",
+    "center_x": 153,
+    "center_y": 948,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f1327de4-da9c-402f-9d6a-b668e2a9a393",
+    "center_x": 253,
+    "center_y": 1070,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "299427b6-30b8-419f-afb2-694082c1154e",
+    "center_x": 301,
+    "center_y": 1102,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "18796f19-eb5e-4598-8729-f4eacdd3b5e0",
+    "center_x": 249,
+    "center_y": 1135,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "eb31033c-dd33-4a5c-badf-4f76b9c07924",
+    "center_x": 154,
+    "center_y": 1133,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "11c66057-c58b-4f8d-bb47-03eb3dee93e9",
+    "center_x": 206,
+    "center_y": 1038,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6ea955bd-6b52-4779-a536-4482ffc72076",
+    "center_x": 255,
+    "center_y": 1004,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2d2012c4-5025-4ca1-8083-c69ae5c10de3",
+    "center_x": 301,
+    "center_y": 1042,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3880cfec-88f3-40bb-a756-601d9454f7f5",
+    "center_x": 300,
+    "center_y": 971,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7f86ae11-1f62-4bb4-ac08-a89d401e2703",
+    "center_x": 348,
+    "center_y": 944,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "52da1423-35c6-49b9-ac59-68779fddc4b9",
+    "center_x": 352,
+    "center_y": 1252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5737abb9-7f48-476b-a9ca-ecaf44074771",
+    "center_x": 305,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "02f4009e-d76e-4508-abff-7520c8ac9f5b",
+    "center_x": 303,
+    "center_y": 1161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "05f9ca75-0ba6-472f-a6ff-7938695a8f53",
+    "center_x": 351,
+    "center_y": 1132,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "16c817b0-f3dd-49b9-8dac-c5c4e656874c",
+    "center_x": 352,
+    "center_y": 1191,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3a0b2238-6671-4c26-8f05-ed8779914d54",
+    "center_x": 400,
+    "center_y": 1161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c96a64c1-6d38-491c-89b3-1768c7bbdcd7",
+    "center_x": 397,
+    "center_y": 1101,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ce703d77-3d6e-4ddc-9d39-95460e9a1569",
+    "center_x": 450,
+    "center_y": 1131,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "063c36da-aa49-4e92-9409-3bf13b6abc77",
+    "center_x": 450,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7bd75040-2c5a-4e89-ae13-2f9f56c4ad79",
+    "center_x": 452,
+    "center_y": 1253,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cb06aa52-d7b1-4aef-a1bd-2b6f77216066",
+    "center_x": 401,
+    "center_y": 1284,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2aaaa283-87e7-48ad-813d-04c70ca38f72",
+    "center_x": 402,
+    "center_y": 1221,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "58ff11dd-9622-4aa6-b5c4-2bcf0617e5c0",
+    "center_x": 499,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dbd939dc-b23a-40e7-826f-bff754f9f155",
+    "center_x": 500,
+    "center_y": 1284,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "033c8f8e-6144-443c-a27b-16fba2e8c602",
+    "center_x": 551,
+    "center_y": 1253,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ffc0b162-7b0a-40c7-941b-6ccd9c20a8c3",
+    "center_x": 550,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7f54e3a2-a0f3-4dc0-bb07-2fa18749d5ff",
+    "center_x": 549,
+    "center_y": 1130,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "df73f65c-c727-414e-b183-5febf064ad6d",
+    "center_x": 604,
+    "center_y": 1163,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "253bdd19-4f72-45ae-8a5a-b79dcc5b8fa6",
+    "center_x": 603,
+    "center_y": 1225,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "19ce217b-560b-4705-ba06-cdec6f74fa1c",
+    "center_x": 605,
+    "center_y": 1285,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5ebb7069-9c65-4ef6-b26b-a3d9197ff485",
+    "center_x": 655,
+    "center_y": 1256,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3149ced8-2b47-4f67-aa23-6fed1e5dc69e",
+    "center_x": 655,
+    "center_y": 1194,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c316c90c-eea4-4d95-8ced-01a16cbf9145",
+    "center_x": 653,
+    "center_y": 1132,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f4ffa909-c040-4de1-8852-395596c45517",
+    "center_x": 652,
+    "center_y": 1071,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1004db5c-ef97-4993-8cb7-18e09a170903",
+    "center_x": 599,
+    "center_y": 1037,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "84539450-9724-4213-ba8b-73a829185104",
+    "center_x": 652,
+    "center_y": 1006,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7766328b-0311-4ad8-9251-52a7ff208442",
+    "center_x": 650,
+    "center_y": 947,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0e2da5a1-2e4a-4bc0-bfff-f53771b42428",
+    "center_x": 601,
+    "center_y": 977,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6e2ceeaf-0d5b-4ab7-83cd-c79ee673490f",
+    "center_x": 707,
+    "center_y": 1224,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "39725b3f-9670-47b0-8b9f-9ca22c08aac8",
+    "center_x": 710,
+    "center_y": 1285,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "783bdc09-95cb-4548-b763-adc7cdf4b76e",
+    "center_x": 762,
+    "center_y": 1257,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "20ff6a72-0959-4cc1-a9f7-476b3e4491fa",
+    "center_x": 816,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b917319b-e09a-4cc7-8314-9641645a1e3b",
+    "center_x": 815,
+    "center_y": 1160,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "369349ab-72fe-452d-b305-a15dc7a640aa",
+    "center_x": 764,
+    "center_y": 1191,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "933df098-f311-489f-bcde-67dbf724e99f",
+    "center_x": 762,
+    "center_y": 1128,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "767bf257-9169-4497-9073-a5b7801b5b0f",
+    "center_x": 815,
+    "center_y": 1098,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "98178107-3d59-4c57-b7f2-6a88467d2ba4",
+    "center_x": 815,
+    "center_y": 1036,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "956d3376-41ae-4ba5-a8ed-c93303107b94",
+    "center_x": 762,
+    "center_y": 1070,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e0cd47fb-5de8-451e-81e8-804575474922",
+    "center_x": 60,
+    "center_y": 1250,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5701f277-348f-4e05-a65f-e0a762331218",
+    "center_x": 110,
+    "center_y": 1224,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "249e2099-90b7-46b5-a4f2-b479b26b93b1",
+    "center_x": 61,
+    "center_y": 1190,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d7322f1e-bb6b-4757-8cb5-2faf4c4fd108",
+    "center_x": 59,
+    "center_y": 1128,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cee8d741-646f-467b-afbc-c8b5e4cd4c61",
+    "center_x": 110,
+    "center_y": 1160,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "3aceea47-6d7c-4e47-a765-0286b900880c",
+    "center_x": 159,
+    "center_y": 1191,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a0906e6b-b79b-45c8-b230-fb7f3f28aca6",
+    "center_x": 207,
+    "center_y": 1161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "379bb811-29be-42ad-8cd0-33024c9061c5",
+    "center_x": 208,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bebecdb1-a803-4867-9d8b-e1534c5feab3",
+    "center_x": 212,
+    "center_y": 1282,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "05cc8646-66db-4bb2-b873-6a740a40fb76",
+    "center_x": 159,
+    "center_y": 1252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "48f3ef63-fbbd-4941-8601-f1d28268dce0",
+    "center_x": 111,
+    "center_y": 1282,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "583f8b19-bb8f-448f-a8aa-eb263ef6ad5f",
+    "center_x": 257,
+    "center_y": 1254,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dd478645-2179-4982-86bf-7337c394cde3",
+    "center_x": 257,
+    "center_y": 1190,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6e7a4715-a93c-4223-934a-43c323acac0c",
+    "center_x": 5,
+    "center_y": 1161,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c005b02f-d453-475b-af65-c9b3cc9e7939",
+    "center_x": 7,
+    "center_y": 1220,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a87bcada-6bac-4a53-a5d9-0f031f2c6cb2",
+    "center_x": 14,
+    "center_y": 1288,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "77e6cf58-b1f8-4c5b-83a9-8156922235f9",
+    "center_x": 204,
+    "center_y": 1098,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6935f086-2086-4ae0-89e2-bae636772dce",
+    "center_x": 56,
+    "center_y": 1005,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "421def1c-d752-4537-93da-c5b215b56179",
+    "center_x": 107,
+    "center_y": 976,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "49592654-7dd6-4ea6-8639-82e0eff6b7e8",
+    "center_x": 56,
+    "center_y": 1064,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "21e100fb-27a2-43ad-9fc6-10efce7cea17",
+    "center_x": 107,
+    "center_y": 1035,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bff64761-558d-46fc-9e8a-0ea4da287e8f",
+    "center_x": 8,
+    "center_y": 1037,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "102b6302-b1d4-4ae4-a0ac-092bd85557c0",
+    "center_x": 6,
+    "center_y": 1099,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2650075f-1f3a-44bb-ad99-726fd9fe7fb3",
+    "center_x": 104,
+    "center_y": 796,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7c622919-f774-4468-bacc-42ac839ff084",
+    "center_x": 105,
+    "center_y": 857,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "adbc8ae4-4f31-4893-a1a6-b39fc31ae417",
+    "center_x": 104,
+    "center_y": 918,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9e809ff0-910d-4935-adb3-c72e4b88abe5",
+    "center_x": 55,
+    "center_y": 886,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e8dd2ffe-62a0-41f6-ad1b-7df78b304c3a",
+    "center_x": 55,
+    "center_y": 825,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f0e8a1fd-4bef-4a59-968e-37fa47fdf39e",
+    "center_x": 51,
+    "center_y": 761,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "11977856-b962-41d3-89a0-da95b3a85298",
+    "center_x": 55,
+    "center_y": 945,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "92a494f6-5cec-4b38-8522-771ed6171b97",
+    "center_x": 251,
+    "center_y": 766,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0b537b25-a5ab-4dea-a7f0-c0a82a28b801",
+    "center_x": 345,
+    "center_y": 828,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5a63a2cd-52ee-4e6d-9350-8600f3dae245",
+    "center_x": 297,
+    "center_y": 855,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "541722c4-2d77-4be6-b6b8-ef68ec11ebd3",
+    "center_x": 247,
+    "center_y": 885,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "36f7c5bb-2eda-408c-96ec-b5fa8d50c929",
+    "center_x": 200,
+    "center_y": 917,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ae4758fd-ea9a-451e-87df-abf385aa1fb0",
+    "center_x": 198,
+    "center_y": 852,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "01cebee6-f1bd-4f60-93e4-29077d08f0f3",
+    "center_x": 151,
+    "center_y": 825,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b54a7aa0-2292-487f-a43c-55c929317346",
+    "center_x": 153,
+    "center_y": 767,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "174b7464-6c62-4142-888b-57b6bc80a15a",
+    "center_x": 150,
+    "center_y": 707,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bfb5977b-b281-43f1-be93-ad9891db96f2",
+    "center_x": 199,
+    "center_y": 680,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "af8e99e7-b8c7-4548-af11-19a613f28575",
+    "center_x": 248,
+    "center_y": 709,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dab60455-fe4f-4f59-880b-36b2d5c63812",
+    "center_x": 923,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dced0d1a-b893-418b-9931-43be8d0db025",
+    "center_x": 923,
+    "center_y": 1159,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c9008a03-7daa-47bc-ae63-36b2c5670f39",
+    "center_x": 923,
+    "center_y": 1100,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5646101d-01db-44d8-bacc-73787d8abf30",
+    "center_x": 976,
+    "center_y": 1130,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "79b41425-7a72-456c-8475-c6ae817703ad",
+    "center_x": 977,
+    "center_y": 1191,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "05a3061a-ff37-4cd3-a563-b3966f4c07d3",
+    "center_x": 977,
+    "center_y": 1254,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4a50e577-bee4-44a5-a903-5125360d5e4e",
+    "center_x": 1029,
+    "center_y": 1223,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "52a39972-0823-44a0-b4fa-fb2b87877b45",
+    "center_x": 1030,
+    "center_y": 1162,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "741bdee5-2aa6-4f70-b736-ef8025db95f2",
+    "center_x": 1082,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6bdf117e-aed0-4170-92ea-8f3de4b955f3",
+    "center_x": 1083,
+    "center_y": 1253,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b16ba6fa-9c1b-491c-9927-c15611b13cfb",
+    "center_x": 1136,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c0d1083c-1a4b-4aac-88d1-8d1f5635866f",
+    "center_x": 1137,
+    "center_y": 1284,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fdec52a4-07e2-469d-b32f-bad6bcd06c9d",
+    "center_x": 1029,
+    "center_y": 1286,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "13311fdc-64b8-4ccd-b378-e7fd5886788f",
+    "center_x": 867,
+    "center_y": 1253,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "01b5c638-e323-47fd-818b-8bfea3704f15",
+    "center_x": 814,
+    "center_y": 1287,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d6c17768-7d42-439f-a6e1-bbdf876cbe2c",
+    "center_x": 870,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b8516bad-194d-4a51-a5ae-53a8faf09925",
+    "center_x": 922,
+    "center_y": 1287,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e79c24da-9c1c-4518-a6c3-1b7c7653ed1b",
+    "center_x": 867,
+    "center_y": 1130,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a571207b-fa9b-4700-879b-5c4f94682bd5",
+    "center_x": 866,
+    "center_y": 1069,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e3f9c4c1-9466-4632-b673-a41f2f6746cb",
+    "center_x": 807,
+    "center_y": 916,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "89adba04-f4b7-4888-8cfe-240b3eed13a5",
+    "center_x": 812,
+    "center_y": 979,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d2615ba3-19da-4be2-bdec-1dbc0d9e9838",
+    "center_x": 756,
+    "center_y": 1007,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bc9445bd-5302-4034-b260-6ec95183947a",
+    "center_x": 757,
+    "center_y": 946,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0a9b00f4-b829-49d8-98d1-f686cb054775",
+    "center_x": 1185,
+    "center_y": 1252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e69525e5-99fd-4894-9599-f5081e43ff4f",
+    "center_x": 1239,
+    "center_y": 1223,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0157b12d-ae42-4c21-89d5-26f2274d5d3e",
+    "center_x": 1239,
+    "center_y": 1163,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "922dae0c-422d-494e-91b1-a48c07f8d825",
+    "center_x": 1239,
+    "center_y": 1100,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0371424f-5601-4077-ba69-be7ea6e4ea5c",
+    "center_x": 1293,
+    "center_y": 1129,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca5ec7ee-b106-495e-a442-5d82842028a3",
+    "center_x": 1295,
+    "center_y": 1192,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "803ee508-422c-4fcf-a576-96240f71cd71",
+    "center_x": 1294,
+    "center_y": 1252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "55076181-5596-415c-a216-a778fd6c8860",
+    "center_x": 1346,
+    "center_y": 1222,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "75fe93d9-8c33-4d2d-b881-cf68dbae30a1",
+    "center_x": 1349,
+    "center_y": 1156,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0567d0ca-197f-4d09-b19e-bdcad87e2e5b",
+    "center_x": 1346,
+    "center_y": 1098,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4e43afd6-1f19-4805-94ef-0802a350d0c9",
+    "center_x": 1403,
+    "center_y": 1127,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f071935a-8243-4c4d-8675-827593c7327d",
+    "center_x": 1399,
+    "center_y": 1188,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "be956ffb-4e5b-4da4-9e66-980098256672",
+    "center_x": 1401,
+    "center_y": 1252,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "948157b6-f1ed-4ceb-8801-89e30de04656",
+    "center_x": 1346,
+    "center_y": 1282,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "13afa691-044e-41c8-bdcf-4140a46784f4",
+    "center_x": 1242,
+    "center_y": 1283,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "60ff1682-8cd9-4167-bf1e-f87687937b9e",
+    "center_x": 1562,
+    "center_y": 1096,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4114bfcf-8292-4fb5-bacb-872e55885ea5",
+    "center_x": 1617,
+    "center_y": 1126,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2ab460dd-f16c-42cb-97c7-abe0ffd1d73f",
+    "center_x": 1673,
+    "center_y": 1093,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1c0f8c09-56bd-4cfd-8cd4-e64dcb6aaf1c",
+    "center_x": 1677,
+    "center_y": 1157,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "91414015-a24d-47b1-9521-6cfc6d464938",
+    "center_x": 1672,
+    "center_y": 1218,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bdf23887-c009-491e-818c-6ed0053b5011",
+    "center_x": 1672,
+    "center_y": 1282,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d91f11e2-7b91-439e-b578-7dfb3707e10e",
+    "center_x": 1563,
+    "center_y": 1281,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e8498aea-c5a8-4f53-aa5e-d707fb2e7e07",
+    "center_x": 1616,
+    "center_y": 1250,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "947e7c78-3468-4ca5-9fb5-88993749917d",
+    "center_x": 1617,
+    "center_y": 1187,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "37cc24f6-9460-47be-a92d-df996ce520c5",
+    "center_x": 1562,
+    "center_y": 1159,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1efa8542-2e2f-47da-8575-d48a96d75d07",
+    "center_x": 1562,
+    "center_y": 1217,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca7c8da0-b8dd-4204-952c-f26013aa4459",
+    "center_x": 1508,
+    "center_y": 1187,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e7cd8119-18a9-4524-9116-1847a628b0a9",
+    "center_x": 1508,
+    "center_y": 1127,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "26f57040-e496-4ceb-a789-25c97cb9885f",
+    "center_x": 1456,
+    "center_y": 1095,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "91aa11fa-2c82-4523-8c58-2b24ab4c3a7c",
+    "center_x": 1455,
+    "center_y": 1155,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "25f20305-e7b9-4694-9aa0-7c9f3136e39b",
+    "center_x": 1456,
+    "center_y": 1219,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dcd74562-08ac-4e15-9b59-8a8680846f67",
+    "center_x": 1508,
+    "center_y": 1250,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0ccc55e4-0209-402e-b92c-b19107e87cb4",
+    "center_x": 1456,
+    "center_y": 1285,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "689a4c72-0d19-4c6f-86e1-47bba8d2a6b8",
+    "center_x": 305,
+    "center_y": 1287,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "dc77e965-5d1f-4aab-90fd-aec3e4570e56",
+    "center_x": 440,
+    "center_y": 520,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a11b2f0d-53ed-454f-88a7-d0e1a42d19c6",
+    "center_x": 391,
+    "center_y": 555,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "80bb9d05-aff3-41b7-808a-ad756985730d",
+    "center_x": 389,
+    "center_y": 495,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "75333878-0864-4303-ba3b-fe69cb929b59",
+    "center_x": 393,
+    "center_y": 430,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "67544d50-35aa-4c4e-8975-fc48d9de43bd",
+    "center_x": 297,
+    "center_y": 435,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8c4d6a2e-5d6a-4024-8de3-0ec1f4ec6273",
+    "center_x": 299,
+    "center_y": 370,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bcf1dc85-15b4-4272-873d-baa7a23485e8",
+    "center_x": 346,
+    "center_y": 401,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "4109b894-5359-48b0-9919-c434417a6a89",
+    "center_x": 698,
+    "center_y": 486,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "339ac2d3-91c1-4627-a57c-1aad076b36ce",
+    "center_x": 861,
+    "center_y": 645,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5b6a1dc9-1820-417f-927a-e2e1b1015f35",
+    "center_x": 1020,
+    "center_y": 544,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0b2eee21-c2ad-4e2c-acc5-e25b8425ead7",
+    "center_x": 810,
+    "center_y": 609,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8e35d38b-92f8-4a7c-b689-a870d7a7806b",
+    "center_x": 491,
+    "center_y": 183,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "afe94956-067a-4d34-90d3-97897acac292",
+    "center_x": 546,
+    "center_y": 217,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e1d7112c-8025-4eba-93df-a5257c3a0bcc",
+    "center_x": 594,
+    "center_y": 244,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "206164f7-98ad-40a3-af22-e9b7b522d00d",
+    "center_x": 150,
+    "center_y": 584,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b4132e5a-ba70-40ea-9d79-918c2146ca46",
+    "center_x": 200,
+    "center_y": 617,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "092874bf-c0ff-4a48-a155-f692fb272cf2",
+    "center_x": 248,
+    "center_y": 655,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f114765e-6ced-4981-ab73-e6aab73f4ede",
+    "center_x": 298,
+    "center_y": 618,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e586f803-a174-4aae-9ae2-86e1e13358e9",
+    "center_x": 296,
+    "center_y": 560,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "630fbe4f-d6ec-4d78-b9f7-2bc560e9ac9d",
+    "center_x": 295,
+    "center_y": 499,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "bca3323f-7e51-4caa-bd25-b46a7ceb5f1e",
+    "center_x": 251,
+    "center_y": 595,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "215f83a7-ac8f-4dcb-a992-82bcdf95b1b3",
+    "center_x": 249,
+    "center_y": 530,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "18da2376-430e-4f01-ba17-116933d0905c",
+    "center_x": 201,
+    "center_y": 561,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2289f1ea-c10f-44f1-baff-ef862f75134a",
+    "center_x": 200,
+    "center_y": 494,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "18d019c5-d453-48cc-aa00-3fd68d04b38a",
+    "center_x": 968,
+    "center_y": 333,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "eba66b04-4e03-4c7a-ba6a-37ecc20277b9",
+    "center_x": 969,
+    "center_y": 389,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "275db837-36ae-4853-bbb6-32b1f7fe7968",
+    "center_x": 968,
+    "center_y": 455,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9ac38b58-14c8-4670-bf14-7a436071e954",
+    "center_x": 968,
+    "center_y": 517,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d311276a-c7f1-4a33-8a88-c06be1857cda",
+    "center_x": 914,
+    "center_y": 421,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b3b43f9e-244d-4bab-a58f-5e53d30c9187",
+    "center_x": 962,
+    "center_y": 572,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "0ca4f890-09e1-46b1-934b-901ac47ae226",
+    "center_x": 916,
+    "center_y": 478,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c07d649e-e333-4be6-85e2-02452dc47ff4",
+    "center_x": 915,
+    "center_y": 537,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e65146e6-0e73-4ab3-b898-5f6f5fec9333",
+    "center_x": 915,
+    "center_y": 605,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "18a23f31-a7af-4ba3-a04b-cfb0461917c1",
+    "center_x": 1616,
+    "center_y": 451,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "be4fed8d-efd8-4a38-8cb9-3ba912d1e479",
+    "center_x": 1676,
+    "center_y": 482,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "10a4cf78-3786-412d-8aa5-41646bdd6173",
+    "center_x": 1673,
+    "center_y": 541,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "78e76425-0c85-49d1-a17a-c791710c2d3e",
+    "center_x": 1617,
+    "center_y": 514,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "cd26f326-9180-4c86-b349-2987ef08b2fb",
+    "center_x": 755,
+    "center_y": 208,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5759dd82-0790-49f3-b7b1-6500a9f64d4e",
+    "center_x": 701,
+    "center_y": 238,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5a0e1806-fd34-4b3c-ba51-d7e46da0ab03",
+    "center_x": 808,
+    "center_y": 236,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "517f8978-7db8-4567-bdcd-d332919d7606",
+    "center_x": 859,
+    "center_y": 270,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "74ba189c-161f-4f44-abd8-53aaba3c3a47",
+    "center_x": 808,
+    "center_y": 296,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "baa2d487-c2e3-4609-ac60-bb4c51258695",
+    "center_x": 859,
+    "center_y": 330,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c46a57f7-ae80-4651-a46b-76819e9e9da3",
+    "center_x": 7,
+    "center_y": 977,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "fbb4ecaf-e07a-4970-a4b1-05bfed29fce8",
+    "center_x": 5,
+    "center_y": 917,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "1726675c-4ac1-41a6-8e62-be1dc5e0e589",
+    "center_x": 7,
+    "center_y": 854,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e0408ac8-77c6-4a1a-aaac-f2ff3267ed9d",
+    "center_x": 4,
+    "center_y": 791,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "47eb8389-719f-4a88-a819-05686b1dbb33",
+    "center_x": 3,
+    "center_y": 673,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a2d85ab1-964d-472a-9798-c2b35b70f853",
+    "center_x": 2,
+    "center_y": 736,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "da7fa703-b041-414f-a056-6fe203f157f6",
+    "center_x": 1,
+    "center_y": 432,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "d2f97bc7-22c2-49be-b93b-4cc59293ce8a",
+    "center_x": 0,
+    "center_y": 496,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f9cd07c7-debe-4949-b4a6-bb3f304b36b0",
+    "center_x": 0,
+    "center_y": 554,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "9be60ea3-a6cf-4776-9249-c6de90cfa5ae",
+    "center_x": 0,
+    "center_y": 614,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a390d3ea-4479-4f18-9af3-e69b14c3438a",
+    "center_x": 394,
+    "center_y": 372,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "75825b30-33f1-4fa2-83c7-fa275be69b69",
+    "center_x": 344,
+    "center_y": 343,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5d92db86-2fcf-49c5-bae9-08c2a594aa86",
+    "center_x": 344,
+    "center_y": 275,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "c3cf693b-4bff-4c68-8a0a-a9193f5f3071",
+    "center_x": 393,
+    "center_y": 247,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8c810fa8-83cb-4fc0-9919-0baba34b8d2f",
+    "center_x": 393,
+    "center_y": 308,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "21a4a272-c268-4205-a275-4cf04902d754",
+    "center_x": 441,
+    "center_y": 275,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "92ca4af2-61a4-431d-b867-0a796f4cbcde",
+    "center_x": 443,
+    "center_y": 336,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "12b87d5a-0c51-48eb-a77e-1c1589979ca8",
+    "center_x": 490,
+    "center_y": 304,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6da4c5bf-ea76-4fb2-b232-4362f0ad059c",
+    "center_x": 490,
+    "center_y": 370,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "8fa45beb-f2eb-48be-902c-077715d62ed4",
+    "center_x": 864,
+    "center_y": 579,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "e561b48e-f80a-4e6b-bd8f-9be449bf99e0",
+    "center_x": 808,
+    "center_y": 548,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f1dbe361-5a76-4931-b12f-38ae852d7298",
+    "center_x": 863,
+    "center_y": 514,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "31426de1-a316-43ab-bebc-229e752ffdce",
+    "center_x": 860,
+    "center_y": 451,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5322ae35-bb1d-4a91-b25d-c8ea9b848997",
+    "center_x": 808,
+    "center_y": 486,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a4750342-1d21-4c5b-a9fe-934d780a3dec",
+    "center_x": 752,
+    "center_y": 453,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "f1e8df97-6d7f-4eb4-875d-66db6b328f31",
+    "center_x": 808,
+    "center_y": 419,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "b6e2703b-c73b-4afb-bae4-33d5570f7e89",
+    "center_x": 807,
+    "center_y": 356,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ad9d5de1-8eb7-40b7-bfba-6f763e23b3b7",
+    "center_x": 752,
+    "center_y": 390,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "67a361ac-2871-456a-9f0f-16939e4f487d",
+    "center_x": 751,
+    "center_y": 330,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "5a0900bc-7d12-40fc-a341-89c1d734d99b",
+    "center_x": 700,
+    "center_y": 297,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "6848412d-a4fd-4a7c-bdff-30fd805f45d3",
+    "center_x": 700,
+    "center_y": 359,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "02ca65ea-dd3e-46e1-aab5-9be9f8e58412",
+    "center_x": 646,
+    "center_y": 391,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a20f8041-c08f-4169-a1e2-aa312e73cd87",
+    "center_x": 646,
+    "center_y": 329,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "7870cf28-c1a1-4058-9d8d-cde31a0832aa",
+    "center_x": 594,
+    "center_y": 423,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "2a3e95f2-a9de-4f3d-a6f6-ff76d50498c9",
+    "center_x": 542,
+    "center_y": 394,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "ca998f79-034c-4333-81e6-62c310551b05",
+    "center_x": 598,
+    "center_y": 358,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "605d2ec7-3924-4207-8bfa-887963aa9128",
+    "center_x": 592,
+    "center_y": 296,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "a37ab941-c23f-4d6e-acef-ef172f13c105",
+    "center_x": 539,
+    "center_y": 274,
+    "radius": 23,
+    "label": "unlabeled"
+  },
+  {
+    "id": "20aa0a4e-5a12-47fc-b3a3-1758c46f4e2d",
+    "center_x": 539,
+    "center_y": 337,
+    "radius": 23,
+    "label": "unlabeled"
+  }
+]
