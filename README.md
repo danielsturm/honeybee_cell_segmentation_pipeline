@@ -6,10 +6,10 @@ you will find a readme for each pipline step in it's directory (submodule)
 
 ## Background Image generator
 
-- to to /background_img_generator/README.md
+- Check out `/background_img_generator/README.md`
 
 ## Annotation Tool
-- not added yet
+- Check out `/annotator/README.md`
 
 ## Model Training Module
 - not added yet

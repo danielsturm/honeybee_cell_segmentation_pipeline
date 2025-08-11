@@ -16,11 +16,14 @@ dependencies = [
 [tool.poetry]
 packages = [
     { include = "annotation_tool" },
-    { include = "cell_finder" }
+    { include = "cell_finder" },
+    { include = "mask_writer" }
 ]
 [project.scripts]
 annotator = "annotation_tool.annotation_controller:main"
 cell-finder = "cell_finder.cell_finder:main"
+mask-writer = "mask_writer.mask_writer:main"
+performance-validation = "cell_finder.performance_validation.performance_validation:main"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
